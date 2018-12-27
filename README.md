@@ -35,3 +35,4 @@ you can run the progam by calling Index.js in the root folder of the project.
 1. with a random amount of systems or static amount based on the configuration
 # create-systems
 # create-systems
+# create-systems
